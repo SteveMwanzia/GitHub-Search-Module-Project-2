@@ -1,5 +1,5 @@
 import React, { useContext, useState } from 'react'
-import searchIcon from '../assets/search.png'
+import searchIcon from '../assets/Search.png'
 import { ThemeContext } from '../context/ThemeContextProvider'
 
 const SearchBar = ({getGithubUser}) => {
